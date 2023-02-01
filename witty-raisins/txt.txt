@@ -1,0 +1,19 @@
+{/*
+            <TabScreen name="Viaje" component={RideScreen} />
+            <TabScreen name="Historial de viaje" component={RideHistoryScreen} />
+          */}
+
+          {/* 
+            <Tab.Screen name="Viaje" />
+            <Tab.Screen name="Historial de viaje" />
+          */}
+
+          {/* 
+            <Screen name="Viaje" component={RideScreen} />
+            <Screen name="Historial de viaje" component={RideHistoryScreen} />
+          */}
+
+           {/*
+            <Tab.Screen name="Viaje" component={RideScreen} />
+            <Tab.Screen name="Historial de viaje" component={RideHistoryScreen} />
+           */}
